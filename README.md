@@ -23,8 +23,11 @@ This module focused on evaluating the business of value of biking in an urban en
 #below are links to the data files and visuals: 
 
 #for visuals depited in this analysis: 
+
 https://public.tableau.com/app/profile/aaron.majek/viz/Module14_Challenge_16508369220640/Module14Story
+
 #for additional visuals created for the module:
+
 https://public.tableau.com/app/profile/aaron.majek/viz/Module14_Tableau/NYCStory
 
 
